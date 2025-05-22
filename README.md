@@ -1,26 +1,39 @@
-# <h1 align="center">Oi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Me chamo <a href="https://alzageek.com/">Alessandro<a> <img width="80" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h1>
-<p align="center">
-    <img width="200" src="https://avatars.githubusercontent.com/u/173426453?v=4">
-</p>
+# 👋 Olá, eu sou Alessandro! 🚀
 
-<div align="center">
+Seja bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia, design e soluções inovadoras. Sempre buscando aprender e criar projetos que fazem a diferença.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GhosT-Exe1&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhosT-Exe1&layout=compact&custom_title=I%20use&title_color=f8333c&card_width=445)
-</div>
+## 🔥 Sobre Mim
 
-<h3>Happy Codding <img width="30" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h3>
+- 💻 Desenvolvedor Frontend focado em **HTML, CSS, JavaScript & Tailwind CSS**.
+- 🛠️ Criador de projetos como **Carda-Hamburguer** e **Gostinho-de-Minas-Menu**.
+- 📚 Apaixonado por novas tecnologias e boas práticas de desenvolvimento.
+- 🎯 Sempre em busca de desafios e aprendizado contínuo.
 
+## 💡 Tecnologias & Ferramentas
 
-[![Readme Card](https://gostinhodeminaslz.com.br)](https://github.com/GhosT-Exe1/gostinho-de-minas-menu)
-[![Readme Card](https://gostinhodeminaslz.com.br)](https://github.com/GhosT-Exe1/gostinho-de-minas-menu)
+Aqui estão algumas das tecnologias que uso regularmente:
 
-<h3>Happy Writing <img width="30" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h3>
+- **Frontend:** HTML | CSS | Tailwind CSS | JavaScript
+- **Backend:** [Caso use alguma tecnologia, adicione aqui]
+- **Banco de Dados:** [Se usar algum, inclua aqui]
+- **Outras Ferramentas:** Git | GitHub | VS Code
 
-![Medium Cards](https://github-readme-social-article.vercel.app/medium/@GhosT-Exe1)
+## 📌 Projetos Destacados
 
- 
-------
-Credit: [GhosT-Exe1](https://github.com/GhosT-Exe1)
+Confira alguns dos meus projetos:
 
-Last Edited on: 27/08/2024
+- 🍔 [Carda-Hamburguer](#) – Cardápio digital interativo.
+- 🧀 [Gostinho-de-Minas-Menu](#) – Sistema de pedidos de pão de queijo.
+
+## 🚀 Conecte-se Comigo
+
+Fique à vontade para entrar em contato:
+
+- 🌐 Meu site: [Adicione aqui se tiver]
+- 💼 LinkedIn: [Seu perfil]
+- 📧 Email: [Seu email]
+- 🏗️ Portfólio: [Caso tenha]
+
+---
+
+Feito com ❤️ e muita dedicação! 😃✨
