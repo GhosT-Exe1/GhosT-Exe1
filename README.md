@@ -14,25 +14,25 @@ Seja bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia, de
 Aqui estão algumas das tecnologias que uso regularmente:
 
 - **Frontend:** HTML | CSS | Tailwind CSS | JavaScript
-- **Backend:** [Caso use alguma tecnologia, adicione aqui]
-- **Banco de Dados:** [Se usar algum, inclua aqui]
+- **Backend:** PHP, NodeJS
+- **Banco de Dados:** MySQL
 - **Outras Ferramentas:** Git | GitHub | VS Code
 
 ## 📌 Projetos Destacados
 
 Confira alguns dos meus projetos:
 
-- 🍔 [Carda-Hamburguer](#) – Cardápio digital interativo.
-- 🧀 [Gostinho-de-Minas-Menu](#) – Sistema de pedidos de pão de queijo.
+- 🍔 [Carda-Hamburguer](https://github.com/GhosT-Exe1/carda-hamburguer) – Cardápio digital interativo.
+- 🧀 [Gostinho-de-Minas-Menu](https://github.com/GhosT-Exe1/Gostinho-de-Minas-Menu) – Sistema de pedidos de pão de queijo.
 
 ## 🚀 Conecte-se Comigo
 
 Fique à vontade para entrar em contato:
 
-- 🌐 Meu site: [Adicione aqui se tiver]
-- 💼 LinkedIn: [Seu perfil]
-- 📧 Email: [Seu email]
-- 🏗️ Portfólio: [Caso tenha]
+- 🌐 Meu site: alzaos.com.br
+- 💼 LinkedIn: Coloco dps kkkk
+- 📧 Email: contato@alzaos.com.br
+- 🏗️ Portfólio: Em desenvolvimento....
 
 ---
 
